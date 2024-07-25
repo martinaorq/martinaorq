@@ -74,7 +74,6 @@ Hi! My name is Martina. I am a programmer that loves to learn new things everyda
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinaorq&theme=omni&show_icons=true)
-
 <img align="right" width="200" src="https://pbs.twimg.com/media/Dke7ai7V4AAPUuc.png" />
 
 <br/>  
