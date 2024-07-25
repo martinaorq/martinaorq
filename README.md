@@ -1,13 +1,13 @@
-## Hi there 👋
+## Welcome! ₍ ᐢ.ˬ.ᐢ₎˚୨୧ ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ 
 
+Hi! My name is Martina. I am a programmer that loves to learn new things everyday! I'm glad to see you here, I hope we can create awesome inventions together ✨
 
 <br/>  
 
-
+## •*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*                        
 ## My Skill Set  
+( Increasing everyday! )
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -60,5 +60,7 @@
 </div>
 
 </td></tr></table>  
+
+## •*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*  
 
 <br/>  
