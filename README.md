@@ -1,6 +1,6 @@
+<h1 color="#f87dda"> $${\color{Pink}Welcome! ₍ ᐢ.ˬ.ᐢ₎˚୨୧ ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ }$$ </h1> 
 
-<h1 color="pink"> Welcome! ₍ ᐢ.ˬ.ᐢ₎˚୨୧ ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ </h1> 
-
+$${\color{Pink}Welcome! ₍ ᐢ.ˬ.ᐢ₎˚୨୧ ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ }$$
 <img align="left" width="200" src="https://i.pinimg.com/originals/05/5d/a1/055da19051d7540c18d4b40dde28764a.png" />
 <br/>  
 <br/>  
@@ -10,7 +10,9 @@ Hi! My name is Martina. I am a programmer that loves to learn new things everyda
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&vCenter=true&width=1000&lines=%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8%F0%9F%8C%BA%F0%9F%8C%B8" alt="Typing SVG" /></a>
 
-<p  color="pink">•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•**•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*•*</p> 
+$$\color{pink}
+\bigcirc \ \circ \ \bullet \ \odot \  \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \  \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \  \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \ 
+$$
 
 <h2 color="pink"> My Skill Set </h2> 
 <p><i>( Increasing everyday! )</i></p>
@@ -69,7 +71,9 @@ Hi! My name is Martina. I am a programmer that loves to learn new things everyda
 </td></tr></table>  
 
 
-<p color="pink">•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•**•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*•*</p>  
+$$\color{pink}
+\bigcirc \ \circ \ \bullet \ \odot \  \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \  \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \  \bigcirc \ \circ \ \bullet \ \odot \ \bigcirc \ \circ \ \bullet \ \odot \ 
+$$
 
 <br/>
 
