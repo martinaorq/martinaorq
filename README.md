@@ -1,6 +1,5 @@
 <h1 color="#f87dda"> $${\color{Pink}Welcome! ₍ ᐢ.ˬ.ᐢ₎˚୨୧ ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ }$$ </h1> 
 
-$${\color{Pink}Welcome! ₍ ᐢ.ˬ.ᐢ₎˚୨୧ ˚˖𓍢ִ໋🌷͙֒✧˚.🎀༘⋆ }$$
 <img align="left" width="200" src="https://i.pinimg.com/originals/05/5d/a1/055da19051d7540c18d4b40dde28764a.png" />
 <br/>  
 <br/>  
