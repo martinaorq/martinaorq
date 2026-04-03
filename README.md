@@ -76,7 +76,7 @@ $$
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinaorq&theme=omni&show_icons=true)
+There is nothing you can't do if you try
 <img align="right" width="200" src="https://pbs.twimg.com/media/Dke7ai7V4AAPUuc.png" />
 
 <br/>  
