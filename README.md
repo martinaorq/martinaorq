@@ -3,7 +3,7 @@
 <img align="left" width="200" src="https://i.pinimg.com/originals/05/5d/a1/055da19051d7540c18d4b40dde28764a.png" />
 <br/>  
 <br/>  
-Hi! My name is Martina. I am a programmer that loves to learn new things everyday! I'm glad to see you here, I hope we can create awesome inventions together ✨
+Hi! My name is <s>Martina</s> Kiara. I am a programmer that loves to learn new things everyday! I'm glad to see you here, I hope we can create awesome inventions together ✨
 
 <br/>  
 
